@@ -14,7 +14,7 @@ You can check out a demo of the app .
 Installation
 To install the ChatGPT3 Clone app on your local machine, follow these steps:
 
-Clone this repository using git clone https://github.com/your-username/chatgpt3-clone-frontend.git.
+Clone this repository using git clone https://jibinn.github.io/CHATGPT3demo/
 Navigate to the project directory using cd chatgpt3-clone-frontend.
 Install the project dependencies using npm install.
 Start the app using npm start.
